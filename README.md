@@ -10,4 +10,4 @@ Android Browser Application
 - Clear History Button
 - Refresh Page Button
 - Backpress available with Alert Dialog
-- Hide Keyboatd after login button clicked
+- Hide Keyboard after login button clicked
